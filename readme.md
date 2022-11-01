@@ -51,4 +51,29 @@
 
 ### Tipos de valores (I).
 
-Instancias de objetos. Mutabilidad e inmutabilidad. Igualdad entre valores
+#### Objetos
+
+    -   Instancias de objetos. Representación
+    -   Propiedades (anticipación del concepto y la representación)
+    -   Mutabilidad e inmutabilidad.
+    -   Garbage collector
+
+#### Objetos / funciones
+
+    -   Formas de creación. Representación
+    -   Dualidad: First Class Objects
+    -   Instantiation (Object).
+    -   Llamada y ejecución (function)
+
+// Ejercicios: Objetos y funciones
+// Descanso
+
+#### Undefined / null
+
+#### Boolean
+
+### Igualdad entre valores
+
+Falta or dar SonarCloud
+
+---
