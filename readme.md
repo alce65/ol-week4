@@ -74,6 +74,4 @@
 
 ### Igualdad entre valores
 
-Falta or dar SonarCloud
-
 ---
